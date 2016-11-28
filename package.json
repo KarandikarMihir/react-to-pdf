@@ -35,5 +35,8 @@
     "rimraf": "^2.5.4",
     "webpack": "^1.13.3",
     "webpack-dev-server": "^1.16.2"
+  },
+  "dependencies": {
+    "jspdf": "^1.3.2"
   }
 }

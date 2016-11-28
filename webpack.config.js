@@ -1,4 +1,1 @@
-module.exports = Object.assign(
-  {},
-  require('./webpack')
-);
+module.exports = require('./webpack')

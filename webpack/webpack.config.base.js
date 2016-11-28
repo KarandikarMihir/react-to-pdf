@@ -16,4 +16,4 @@ module.exports = (options) => ({
       '.react.js',
     ],
   }
-})
+});

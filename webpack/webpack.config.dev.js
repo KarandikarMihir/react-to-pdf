@@ -12,7 +12,7 @@ module.exports = Object.assign(
   {
     plugins: [
       new HtmlWebpackPlugin({
-        template: './src/index.html',
+        template: './example/index.html',
         inject: true,
       }),
     ],
